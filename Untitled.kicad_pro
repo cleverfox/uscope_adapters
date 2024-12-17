@@ -483,7 +483,7 @@
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
+        "track_width": 0.3,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -658,8 +658,12 @@
       "3x16p-26p_adapter"
     ],
     [
-      "344a1799-81e9-4d2b-ac59-44de039b49a1",
-      "wide_bus_mux"
+      "9a7afde2-75de-4a17-b469-c6ac97503373",
+      "8bit_bus"
+    ],
+    [
+      "eb476779-f144-470b-bd37-262f6b5be09b",
+      "cpld_mux"
     ]
   ],
   "text_variables": {}
