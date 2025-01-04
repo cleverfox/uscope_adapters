@@ -1,4 +1,4 @@
-23759029750199971
+23764235402483584
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88899,6 +88899,20 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+Scope
+CON9_1X31_DL_DF9_HIR
+
+DF9B-31S-1V69 
+0
+31
+31
+Scope
+TSSOP-20_4.4x6.5mm_P0.65mm_holed
+TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf

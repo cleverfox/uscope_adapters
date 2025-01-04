@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.2,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -180,7 +180,8 @@
       "track_widths": [
         0.0,
         0.2,
-        0.3
+        0.3,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -446,7 +447,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "8bit_bus.kicad_pro",
+    "filename": "16p_26p_adapter_left.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -481,7 +482,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gdb/8bitbus",
+      "plot": "grb/26pl/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -591,7 +592,7 @@
   },
   "sheets": [
     [
-      "70d82d34-040c-41d1-8d47-ea82234ba4a4",
+      "2435981f-00c8-4099-9ac3-aefb10dd5935",
       "Root"
     ]
   ],
