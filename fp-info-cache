@@ -1,4 +1,4 @@
-23764235402483584
+23767735164644764
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -36071,6 +36071,13 @@ Through hole angled pin header THT 2x12 2.54mm double row
 24
 24
 Connector_PinHeader_2.54mm
+PinHeader_2x12_P2.54mm_Horizontal_left
+Through hole angled pin header, 2x12, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x12 2.54mm double row
+0
+24
+24
+Connector_PinHeader_2.54mm
 PinHeader_2x12_P2.54mm_Vertical
 Through hole straight pin header, 2x12, 2.54mm pitch, double rows
 Through hole pin header THT 2x12 2.54mm double row
@@ -64651,6 +64658,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+USB_A_Jing_908-152A2022D10100_Horizontal_C39441
+USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
+USB_A Female Connector receptacle
+0
+6
+5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -88903,6 +88917,13 @@ Scope
 CON9_1X31_DL_DF9_HIR
 
 DF9B-31S-1V69 
+0
+31
+31
+Scope
+CON9_1X31_MDZL_DF9_HIR
+
+DF9-31P-1V32 
 0
 31
 31

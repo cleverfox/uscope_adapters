@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -10,9 +10,9 @@
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
-      "tracks": 1.0,
+      "tracks": 0.8600000143051147,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.33000001311302185
     },
     "selection_filter": {
       "dimensions": true,
@@ -37,7 +37,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       15,
@@ -64,8 +63,8 @@
       39,
       40
     ],
-    "visible_layers": "ffdfc30_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffcff20_ffffffff",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
@@ -74,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "16p_26p_adapter_left.kicad_prl",
+    "filename": "cpld_mux4.kicad_prl",
     "version": 3
   },
   "project": {

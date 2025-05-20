@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -15,13 +15,13 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
       "graphics": true,
-      "keepouts": true,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
+      "otherItems": false,
+      "pads": false,
       "text": true,
       "tracks": true,
       "vias": true,
@@ -37,7 +37,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       15,
@@ -64,7 +63,7 @@
       39,
       40
     ],
-    "visible_layers": "ffdfc30_ffffffff",
+    "visible_layers": "ffd5020_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -74,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "16p_26p_adapter_left.kicad_prl",
+    "filename": "serial_adapter_left.kicad_prl",
     "version": 3
   },
   "project": {
